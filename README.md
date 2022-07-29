@@ -1,2 +1,3 @@
 # fortnitepasta
-3.5 pasta
+release when its working 
+status: not working
